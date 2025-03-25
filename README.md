@@ -12,7 +12,7 @@ After prompting the user for their name, the program will randomly display a cou
 3. Randomly select a country from the `HashMap`.
 4. Ask the user to input the capital of the selected country.
 5. Track the user's score based on correct answers.
-6. After 10 questions, write the user's name and score to `classificacio.txt`.
+6. After 10 questions, write the user's name and score to `classification.txt`.
 
 💻 **Technologies Used**
 
